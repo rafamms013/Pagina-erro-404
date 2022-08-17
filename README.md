@@ -1,9 +1,7 @@
 ## Sobre:
-<p></p>
+<p>Essa página foi desenvolvida para aprimorar meus conhecimentos em HTML, CSS e principalmente o JavaScript, onde tenho focado para fixar bem e ter um bom entendimento para conseguir usar. Fiz essa página acompanhando um tutorial no youtube, porém fui fazendo do meu jeito mudando algumas coisas para deixar como queria, é uma página simples, onde quando o usuário passa o mouse sobre ela a imagem de background se movimenta, isso graças ao JavaScript. Irei fazendo algumas melhorias mais a frente e ir implementando algumas funções legais nela, para assim aprender mais.</p><br>
 
 <img src="./src/img/image-previa-pagina.png" >
-
-
 
 ## Tecnologias usadas:
 <li>HTML</li>
